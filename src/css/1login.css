@@ -1,0 +1,133 @@
+﻿body{
+	   background-color: #F5F5F5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.bg-dark {
+    background-color: #19647E !important
+}
+.customInput{
+	font-size: 15px;
+    border-bottom: 1px solid #ddd;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0;
+}
+.form-check{
+	padding-top:10px;
+	
+}
+.customInput{
+	
+	box-shadow:none !important;
+}
+.navlogo{
+	
+	height: 50px;
+}
+.login-block{
+float:left;
+width:100%;
+padding-top: 20%;
+}
+.setTop{
+	
+	     padding-top: 110px;
+}
+.banner-sec{background:url(https://static.pexels.com/photos/33972/pexels-photo.jpg)  no-repeat left bottom; background-size:cover; min-height:500px; border-radius: 0 10px 10px 0; padding:0;}
+.loginBox{-webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    background: #fff;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    display: block;
+    margin: 0 auto;
+    min-height: 0;
+	border-top: 1px solid #dfdfdf;
+	padding-bottom: 80px;
+}
+@media (min-width: 601px)
+/accounts/stati…Y8ALEFYCzzFA:1
+.LJtPoc, .bdf4dc {
+    -webkit-transition: .2s;
+    /* transition: .2s; */
+}}
+.carousel-inner{border-radius:0 10px 10px 0;}
+.carousel-caption{text-align:left; left:5%;}
+.login-sec{padding: 25px 30px; position:relative;     border-radius: 8px; }
+.login-sec .copy-text{position:absolute; width:80%; bottom:20px; font-size:13px; text-align:center;}
+.login-sec .copy-text i{color:#FEB58A;}
+.login-sec .copy-text a{color:#E36262;}
+.login-sec h2{margin-bottom: 18px;
+    font-weight: 800;
+    font-size: 18px;
+    color: #343a40;
+	}
+	.text-muted{
+		 font-size:13px;
+		
+		}
+.login-sec h2:after{    
+	content: " ";
+    width: 100px;
+    height: 5px;
+    background: #19647E !important;
+    display: block;
+    margin-top: 18px;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto;
+	}
+	.forgetPass{
+		font-size:13px;
+		color: #19647E;
+		text-decoration:none;
+		font-weight:normal;
+		}
+
+.btn-login{
+	    background: #19647E !important;
+    color: #ffffff !important;
+	font-size: 15px;
+    -webkit-transition: box-shadow .28s cubic-bezier(0.4,0.0,0.2,1);
+    transition: box-shadow .28s cubic-bezier(0.4,0.0,0.2,1);
+    background: #dfdfdf;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+	width:100%;
+	cursor:pointer;
+}
+.Userlogo_div{
+  text-align:center;
+  margin-bottom:20px;
+}
+.comapnyName{
+	color:#19647E !important;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+border-top: 1px solid #e0e0e0;
+}
+.form-check-label {
+    padding-left: 0rem !important;
+    margin-bottom: 0;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0px !important;
+   right: 0px !important;
+   left: 0px !important;
+    z-index: 1030;
+	   
+}
+.navbar-brand{
+	font-size: 16px;
+}

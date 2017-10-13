@@ -1,0 +1,52 @@
+.mini-box {
+    min-height: 107px;
+    padding: 15px;
+}
+
+.mini-box .btn-icon, .mini-box .btn-icon-lined {
+    margin: 0 15px 0 0;
+    font-size: 32px;
+}
+
+.btn-icon-lg-alt {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+}
+
+.btn-icon-round {
+    border-radius: 50%;
+}
+.btn-icon {
+    display: inline-block;
+    text-align: center;
+}
+
+.bg-success {
+    background-color: #23AE89;
+    color: #fff;
+}
+.bg-success {
+    background-color: #23AE89;
+    color: #fff;
+}
+
+.mini-box .box-info {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mini-box {
+    margin-bottom: 20px !important;
+    background-color: #fff !important;
+    border: 1px solid transparent !important;
+    border-radius: 4px !important;
+    -webkit-box-shadow: 0px 3px 16px 1px rgba(0, 0, 0, 0.16), 0 6px 20px 0 rgba(238, 238, 238, 0.06) !important;
+    box-shadow: 0px 3px 16px 1px rgba(0, 0, 0, 0.16), 0 6px 20px 0 rgba(238, 238, 238, 0.06) !important;
+}
+.box-info, .text-muted{
+	color: #19647e;
+}
+.custom-widthTh{
+	min-width:175px;
+}

@@ -1,0 +1,33 @@
+{
+  "name": "angapp",
+  "version": "1.0.0",
+  "description": "first app from scratch",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6",
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4"    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binod-hsc/ipts.git"
+  },
+  "keywords": [
+    "ipts"
+  ],
+  "author": "binod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binod-hsc/ipts/issues"
+  },
+  "homepage": "https://github.com/binod-hsc/ipts#readme"
+}
